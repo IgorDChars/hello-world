@@ -1,2 +1,5 @@
 # hello-world
-Mon premier repository
+
+Ceci sera mon repository afin de faire des essais à propos de différents nouveaux outils pour moi.
+
+Mon premier test est simplement d'utiliser GIT via son interface Web.
